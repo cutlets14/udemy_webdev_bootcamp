@@ -1,19 +1,27 @@
-body {
-  background-color: #EAF6F6;
-}
-hr {
-  border-style: none;
-  border-top-style: dotted;
-  border-color: grey;
-  border-width: 8px;
-  width: 10%;
-}
-img {
-  height: 200px;
-}
-a img{
-  height: 100px;
-}
 h1 {
-  color: #66BFBF;
+  color: red;
+}
+
+img:hover {
+  background-color: gold;
+}
+
+.bacon {
+  background-color: red;
+}
+
+.broccoli {
+  background-color: green;
+}
+
+#heading {
+  background-color: blue;
+}
+
+#veggie {
+  background-color: blue;
+}
+
+#big {
+  font-size: 100px;
 }
