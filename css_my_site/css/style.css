@@ -22,6 +22,10 @@ h3 {
   color: #11999E;
 }
 
+.profile-img {
+  width: 50%;
+}
+
 .top-container {
   background-color: #EAF9F5;
   position:relative;
@@ -29,6 +33,7 @@ h3 {
 }
 
 .middle-container {
+  width: 25%;
 }
 
 .bottom-container {
