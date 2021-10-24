@@ -45,8 +45,39 @@ h1 {
   margin: 5% 3% 5% 0;
 }
 
+
 /* Title Image */
 .title-image {
   width: 60%;
   transform: rotate(25deg);
+}
+
+/* Features */
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+#features {
+  padding: 7% 15%;
+}
+
+h3 {
+  font-family: Montserrat;
+  font-weight: bold;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+/* Feature Image */
+.feature-image {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.feature-image:hover {
+  color: #ff4c68
 }
